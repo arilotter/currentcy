@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
   "name": "Currentcy",
-  "version": "1.12b",
+  "version": "1.13b",
 
   "description":
-    "Currentcy automatically converts foreign currencies into the local one (set in Options). Rate values are updated every thirty minutes using a free API (https://free.currencyconverterapi.com/). Please note that this project is in beta phase, so there may be bugs. The source code is available on GitHub: https://github.com/tehw0lf/currentcy",
+    "Currentcy automatically converts foreign currencies into the local one (set in Options). Rate values are updated every thirty minutes using a free API (https://free.currencyconverterapi.com/ ). Please note that this project is in beta phase, so there may be bugs. The source code is available on GitHub: https://github.com/tehw0lf/currentcy",
 
   "background": {
     "scripts": ["currentcy.js"]
